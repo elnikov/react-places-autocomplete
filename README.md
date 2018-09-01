@@ -4,6 +4,8 @@
 
 # React Places Autocomplete
 
+**Fork For Ruby On Rails + Browserfy compatibility.**
+
 A React component to build a customized UI for Google Maps Places Autocomplete
 
 ### Demo
